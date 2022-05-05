@@ -1,0 +1,2 @@
+export const CHANGE_AlBUM = "CHANGE_AlBUM";
+export const CHANGE_AlBUM_COMMENT = "CHANGE_AlBUM_COMMENT";
